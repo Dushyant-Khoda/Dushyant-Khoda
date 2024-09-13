@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN, DJANGO, UIUX DESIGNER, Product Designer**
 
-- 🌱 I’m currently completed **REACT,ANGULAR,VUE,GSAP,UIUX,NODE,EXPRESS,MONGODB,TAILWIND,DJANGO**
+- 🌱 I’m currently completed **REACT, ANGULAR, VUE, GSAP, UIUX, NODE, EXPRESS, MONGODB, TAILWIND, DJANGO**
 
 - 👯 Welcome to Code Intelli,
       I hope you are safe and fine in this pandemic.
@@ -13,14 +13,14 @@
 
       We would glad to offer you the creative services for: 
 
-      1. UI UX design 
-      2. Website Template (Responsive)
-      3. E-commerce Website using Django And MERN
-      4. Mobile App Development Using Android, React Native, And Flutter 
+      1. UIUX Designing 
+      2. Website Development
+      3. Mobile Application Development
+      4. SaaS Application Development
 
       Thanks for your time
 
-- 💬 Ask me about **REACT,ANGULAR,VUE,GSAP,UIUX,NODE,EXPRESS,MONGODB,TAILWIND,DJANGO**
+- 💬 Ask me about **REACT, ANGULAR, VUE, GSAP, UIUX, NODE, EXPRESS, MONGODB, TAILWIND, DJANGO**
 
 
 <h3 align="left">Languages and Tools:</h3>
