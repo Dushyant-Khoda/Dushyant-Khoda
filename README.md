@@ -21,7 +21,7 @@
       Thanks for your time
 
 - 💬 Ask me about **REACT, ANGULAR, VUE, GSAP, UIUX, NODE, EXPRESS, MONGODB, TAILWIND, DJANGO**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeIntelli&show_icons=true&locale=en&layout=compact" alt="CodeIntelli" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dushyant-Khoda&show_icons=true&locale=en&layout=compact" alt="Dushyant-Khoda" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeIntelli&" alt="CodeIntelli" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dushyant-Khoda&" alt="Dushyant-Khoda" /></p>
